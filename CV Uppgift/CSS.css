@@ -1,0 +1,185 @@
+
+/*uppgift 1 bakgrunder
+body
+{
+background-color: #F0F8FF;
+color: #2F4F4F;
+}
+a
+{
+background-color:#F5F5DC;
+}
+h1
+{
+background-color: #00CED1;
+color: #F8F8FF;
+}
+*/
+/*
+body
+{
+background-image :url("WIN_20221014_13_26_55_Pro.jpg");
+background-repeat: no-repeat;
+background-size: 1280px 2500px;
+}
+h1
+{
+background-image:url("ttps://images.pexels.com/photos/2236713/pexels-photo-2236713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
+background-repeat: no-repeat;
+background-size 100% auto;
+background-position:right;
+}
+ol
+{
+    background-imgage :url(" https://i.ds.at/d8Bkzg/rs:fill:750:0/plain/2016/07/11/pika.jpg");
+    background-repeat: repeat-y;
+    background-size: 30px 30px;
+    background-position: left;
+}
+
+
+head
+h1
+{
+color: blue;
+}
+p
+{
+color: darkgray;
+}
+ol
+{
+color: red
+}
+
+a
+{
+    background-color: gray
+    opacity 0.5;
+}
+body
+{
+background-color: lightyellow;
+}
+p
+{
+color: darkred;
+}
+h1,h2,h3,h4,h5,h6
+{
+color:purple;
+}
+
+
+body
+{
+    background-color: gray;
+
+}
+ p
+ {
+    width: 500px;
+    border: 4px solid black;
+
+ }
+
+ #p1
+ { 
+ border: 8px solid black;
+ }
+ .pink
+ {
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 10pt;
+    font-weight: 900;
+    
+ }
+
+
+
+h1
+{
+    font-size: 2em;    
+    font-variant: small-caps;
+}
+
+h2
+{
+    font-size: 2em;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    font-family: impact, char, sans-serif;
+    font-weight: 300;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+}
+a
+{
+    font-style: italic;
+}
+
+li
+{
+    font-family: lucida console, monaco, monospace;
+    font-size: 0.9em
+}
+    */
+
+     
+    
+    body{
+     background-color: gainsboro;
+     }
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    .box4{
+        height: 220px
+    }
+
+    
+
+    .box2{
+       
+        background-color: gray;
+        height: 220px;
+    }
+
+    .box3{
+        background-color: gray;
+        height: 220px;
+    }
+
+    .img1{
+        border: 3px solid black;
+    }
+    
+    .div1{
+        background-color: gray;
+        display: flex;
+      
+        gap: 5%;
+        border: 5px solid darkgrey;
+        padding: 1%;
+        border-radius: 50px;
+        height: 350px;
+    }
+
+.box1{
+    background-color: gray;
+    height: 200px;
+}
